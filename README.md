@@ -20,6 +20,10 @@ I'm a passionate web app developer with experience in building scalable and effi
 </div>
 
 ---
+<div align="center">
+    <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/master/images/capa-github-completa.gif" alt="Colorful animated bar"/>
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=shibashish-dev&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
