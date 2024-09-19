@@ -20,20 +20,7 @@ I'm a passionate web app developer with experience in building scalable and effi
 </div>
 
 ---
-<div align="center">
-    <svg width="100%" height="40">
-        <defs>
-            <linearGradient id="grad1">
-                <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
-                <stop offset="50%" style="stop-color:rgb(255,255,0);stop-opacity:1" />
-                <stop offset="100%" style="stop-color:rgb(0,255,0);stop-opacity:1" />
-            </linearGradient>
-        </defs>
-        <rect width="100%" height="40" fill="url(#grad1)">
-            <animate attributeName="width" from="0" to="100%" dur="2s" fill="freeze" />
-        </rect>
-    </svg>
-</div>
+
 
 
 [![](https://visitcount.itsvg.in/api?id=shibashish-dev&icon=2&color=0)](https://visitcount.itsvg.in)
